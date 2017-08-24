@@ -145,7 +145,7 @@
           },
           "title3": "3. Utvärdera&nbsp;",
           "subtitle3": "Var 100% säker på att alla fått&nbsp;<div>Rätt information om era nyheter</div>",
-          "caption3": "KeySlider visar hur länge säljarna presenterat<br>en viss presentation. Bra för produktavdelningen <br>för &nbsp;utvärdering av en kampanj.<br>Hur kan vi göra det bättre i framtiden.",
+          "caption3": "KeySlider visar hur länge säljarna presenterat<br>en viss presentation.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -250,7 +250,7 @@
             "fields": {
               "name": {
                 "title": "Name",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Name*"
               },
               "email": {
@@ -260,7 +260,7 @@
               },
               "phone": {
                 "title": "Phone",
-                "visible": true,
+                "visible": false,
                 "customTitle": "Phone"
               },
               "message": {
