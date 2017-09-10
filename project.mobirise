@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "KeySlider",
+    "name": "KeySlider SE",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -68,7 +68,7 @@
             "overlayOpacity": "0.2"
           },
           "title": "KEYSLIDER",
-          "text": "DEN DIGITALA SÄLJPÄRMEN&nbsp;",
+          "text": "DEN DIGITALA SÄLJPÄRMEN<br>Vi tror att presentationer ska vara digitala.<br>Det ska vara enkelt att förmedla till butiken &nbsp;<br>och ge en optimal kundupplevelse.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PROVA</a>"
         },
         {
@@ -111,9 +111,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "1. Förmedla media material",
+          "title1": "Administrera",
           "subtitle1": "Administratören laddar upp media<br>&nbsp;",
-          "caption1": "KeySlider hjälper adminstratör att dela&nbsp;<br>ut presentationer på rätt butiker.<br><br>",
+          "caption1": "KeySlider hjälper adminstratör att förmedla&nbsp;<br>ut presentationer på rätt butiker.<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -127,7 +127,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "2. Presentation i butik",
+          "title2": "Presentera",
           "subtitle2": "Säljare ser prioriterade presentationer <br>på butiksnivå<br>",
           "caption2": "KeySlider hjälper säljaren att visa rätt <br>presentation&nbsp;på rätt butik.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
@@ -143,7 +143,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "3. Utvärdera&nbsp;",
+          "title3": "Säkerställa",
           "subtitle3": "Var 100% säker på att alla fått&nbsp;<div>Rätt information om era nyheter</div>",
           "caption3": "KeySlider visar hur länge säljarna presenterat<br>en viss presentation.&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
